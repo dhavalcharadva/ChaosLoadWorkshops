@@ -1,2 +1,2 @@
 # ChaosLoadWorkshops
-A set of workshots for use with SQL Server for debugging perofmance problems simulated by ChaosLoad
+A set of workshops for use with SQL Server for debugging perofmance problems simulated by [ChaosLoad](https://github.com/gavdraper/ChaosLoad)
